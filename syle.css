@@ -1,0 +1,39 @@
+.hero{
+   
+   background-color: black;
+    height: 200px;
+}
+.t{
+   color: white;
+    text-align: center;
+    padding-top: 75px;
+}
+.content{
+    padding: 0px 15%;
+}
+.subt{
+    margin-top: 5%;
+    font-weight: bold;
+}
+.sq{
+    background-color: #eeeeee;
+    padding: 10px;
+    border-radius: 5%;
+    width: 28%;
+    margin: 0px 2% ;
+}
+
+.color{
+    background-color: white;
+}
+.color1{
+    background-color: black;
+}
+.tcolor{
+    color: white;
+
+
+}
+.tcolor1{
+    color: black;
+}
